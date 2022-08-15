@@ -5,3 +5,5 @@
 - 📫 How to reach me:
 - E-mail: Youssef.kafa19941@gmail.com
 - LinkedIn : https://www.linkedin.com/in/youssefkafa/
+
+<a href="https://www.linkedin.com/in/youssefkafa/">LinkedIn</a>
