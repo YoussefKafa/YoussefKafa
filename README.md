@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me:
 
--Get In Touch:
-<a href="https://www.linkedin.com/in/youssefkafa/">LinkedIn</a>
+-Get In Touch: <br>
+<a href="https://www.linkedin.com/in/youssefkafa/">LinkedIn</a> -
 <a href= "mailto:Youssef.kafa19941@gmail.com">E-mail</a>
