@@ -7,5 +7,5 @@
 <a href= "mailto:Youssef.kafa19941@gmail.com">E-mail</a><br>
 -Please take a look at my statistics:
 
-![Languages](https://github.com/YoussefKafa/stats/blob/master/generated/languages.svg)
+![Languages](https://github.com/YoussefKafa/stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![Overview](https://github.com/YoussefKafa/stats/blob/master/generated/overview.svg)
