@@ -11,4 +11,4 @@
 ![Overview](https://github.com/YoussefKafa/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?YoussefKafa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
