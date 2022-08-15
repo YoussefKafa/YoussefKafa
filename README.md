@@ -5,3 +5,7 @@
 - 📫 How to reach me: <br>
 <a href="https://www.linkedin.com/in/youssefkafa/">LinkedIn</a> -
 <a href= "mailto:Youssef.kafa19941@gmail.com">E-mail</a>
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?YoussefKafa=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?YoussefKafa=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
