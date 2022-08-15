@@ -7,3 +7,4 @@
 - LinkedIn : https://www.linkedin.com/in/youssefkafa/
 
 <a href="https://www.linkedin.com/in/youssefkafa/">LinkedIn</a>
+<a href="Youssef.kafa19941@gmail.com">E-Mail</a>
