@@ -6,5 +6,5 @@
 <a href="https://www.linkedin.com/in/youssefkafa/">LinkedIn</a> -
 <a href= "mailto:Youssef.kafa19941@gmail.com">E-mail</a>
 -Please take a look at my statistics:
-![Repos](https://raw.githubusercontent.com/YoussefKafa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Languages](https://raw.githubusercontent.com/YoussefKafa/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/YoussefKafa/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/YoussefKafa/github-stats/blob/master/generated/languages.svg)
