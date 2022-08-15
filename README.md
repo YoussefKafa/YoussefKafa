@@ -7,5 +7,9 @@
 <a href= "mailto:Youssef.kafa19941@gmail.com">E-mail</a>
 
 
-![](https://raw.githubusercontent.com/YoussefKafa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/YoussefKafa/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![s](https://raw.githubusercontent.com/YoussefKafa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![s](https://raw.githubusercontent.com/YoussefKafa/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
+![s](https://raw.githubusercontent.com/YoussefKafa/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![s](https://raw.githubusercontent.com/YoussefKafa/github-stats/master/generated/languages.svg#gh-light-mode-only)
