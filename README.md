@@ -8,4 +8,4 @@
 -Please take a look at my statistics:
 
 ![Languages](https://github.com/YoussefKafa/stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-![Overview](https://github.com/YoussefKafa/stats/blob/master/generated/overview.svg)
+![Overview](https://github.com/YoussefKafa/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
