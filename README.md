@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Youssef Kafa
 - I'm A software engineer Intern at Inabia Solutions and Consulting, Inc.
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in AI
 - 🌱 I’m currently working on Meta Back-End Developer Professional Certificate
-- 💞️ I’m looking to collaborate on Web Development projects
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me: <br>
 <a href="https://www.linkedin.com/in/youssefkafa/">LinkedIn</a> -
 <a href= "mailto:Youssef.kafa19941@gmail.com">E-mail</a><br>
