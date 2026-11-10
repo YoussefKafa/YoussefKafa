@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Youssef Kafa 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=DevOps+%2F+Cloud+Engineer;Turning+%22works+on+my+machine%22+into+%22works+in+production%22;Cloud+infrastructure%2C+automation%2C+and+AI+that+actually+ships;If+it+hurts%2C+automate+it" alt="DevOps / Cloud Engineer. Turning works-on-my-machine into works-in-production.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=DevOps+%2F+Cloud+Engineer;Turning+%22works+on+my+machine%22+into+%22works+in+Prod!%22;Cloud+infrastructure%2C+automation%2C+and+AI+that+ships!;If+it+hurts%2C+automate+it!" alt="DevOps / Cloud Engineer. Turning works-on-my-machine into works-in-Prod.">
 </p>
 
 <p align="center">
